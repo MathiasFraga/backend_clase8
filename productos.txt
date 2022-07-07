@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Escuadra",
+		"price": 123.45,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+		"id": 1
+	},
+	{
+		"title": "Calculadora",
+		"price": 234.56,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+		"id": 2
+	},
+	{
+		"title": "Globo Terráqueo",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+		"id": 3
+	},
+	{
+		"title": "Sacapuntas",
+		"price": 386,
+		"thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.soyvisual.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffacebook_og%2Fpublic%2Fimages%2Fphotos%2Fcole_0031.jpg%3Fitok%3DWKZUEEng&imgrefurl=https%3A%2F%2Fwww.soyvisual.org%2Ffotos%2Fsacapuntas&tbnid=DHSfYGiEaMWSVM&vet=12ahUKEwiV6qmhvpn2AhVqrJUCHf_uC1EQMygCegUIARDyAQ..i&docid=mf0nH_yyhFLHAM&w=630&h=630&q=sacapuntas&ved=2ahUKEwiV6qmhvpn2AhVqrJUCHf_uC1EQMygCegUIARDyAQ",
+		"id": 4
+	},
+	{
+		"title": "Goma de borrar",
+		"price": 390,
+		"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.librerialarubrica.com%2Fcategoria-producto%2Flibreria%2Fescritura%2Fgomas-de-borrar%2F&psig=AOvVaw0QY4nc5BHL9pftL-Hw08eb&ust=1645831562365000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiDzb--mfYCFQAAAAAdAAAAABAD",
+		"id": 5
+	}
+]

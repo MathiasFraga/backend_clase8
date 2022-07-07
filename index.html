@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Assets/css/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 class="text-center text-light">Curso backend</h1>
+    <div class="container">
+        <div class="form-group p-2">
+            <form class="p-2" id="productos" action="/productospost" method="POST">
+                <input class="form-control" type="text" name="title" placeholder="Nombre de producto">
+                <hr>
+                <input class="form-control" type="text" name="price" placeholder="Ingrese precio">
+                <hr>
+                <input class="form-control" type="file" name="thumbnail">
+                <hr>
+                <input class="btn btn-primary text-center m-2" type="submit" value="Agregar Archivo">
+            </form>
+            <hr>
+            <form class="p-2" action="/uploadfile" enctype="multipart/form-data" method="post">
+                <h6 class="text-center text-light" >Seleccione Imagen para guardar en repositorio:</h6> <input class="form-control btn btn-info" type="file"
+                    name="myFile">
+                <hr>
+                <input class="btn btn-primary text-center m-2" type="submit" value="Subida de Archivos">
+            </form>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
